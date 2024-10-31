@@ -90,3 +90,5 @@ Contributions are welcome! To get started:
 
 ## License
 This project is licensed under the MIT License.
+
+Format icon created by <a href="https://www.flaticon.com/authors/noomtah">Noomtah</a>
