@@ -1,6 +1,6 @@
 # Format File Converter
 
-A comprehensive, cross-platform file converter that allows users to convert between various formats for audio, video, images, and documents using a modern graphical user interface (GUI). The application also supports high-DPI displays and adds an optional "Format File" right-click context menu on Windows.
+A comprehensive file converter that allows users to convert between various formats for audio, video, images, and documents using a modern GUI. The application also supports high-DPI displays and adds a "Format File" right-click context menu on Windows.
 
 ## Table of Contents
 - [Features](#features)
@@ -25,14 +25,14 @@ A comprehensive, cross-platform file converter that allows users to convert betw
 - **Video**: `.mp4`, `.avi`, `.mkv`, `.mov`, `.wmv`, `.flv`, `.webm`
 - **Image**: `.jpg`, `.jpeg`, `.png`, `.gif`, `.bmp`, `.tiff`, `.webp`
 - **Document**: `.pdf`, `.epub`, `.mobi`, `.txt`, `.doc`, `.docx`, `.rtf`
-
+- **More**: Coming Soon!
 ## Installation
 To run this application, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/format-file-converter.git
-   cd format-file-converter
+   git clone https://github.com/gnhen/File-Converter
+   cd File-Converter
    ```
 
 2. **Install Required Dependencies**: Make sure Python 3.6 or higher is installed, then run:
